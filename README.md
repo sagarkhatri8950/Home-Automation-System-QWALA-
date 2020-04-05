@@ -1,2 +1,2 @@
 # Home-Automation-System-QWALA-
-Home Automation system to control and manage electrical and electronic appliances. It can also perform various other functions like Playing Music, setting alarm, Face detection etc
+Home Automation system named Qwala that can be used to control the home devices like lights, fans with the voice command directly from being in the room or from any other place with the help of mobile device. It also includes facial recognition to detect the person and can perform operations like door open or close based on the command stored. This project is developed on Raspberry pi 3 using python. It can be implemented in Home or room.c
